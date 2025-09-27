@@ -34,6 +34,17 @@ oci ce cluster create \
 
 Após a criação do cluster:
 
+```cloud shell
+
+oci ce cluster create-kubeconfig \
+--cluster-id <OCID_DO_CLUSTER> \
+--file $HOME/.kube/config \
+--region sa-saopaulo-1 \
+--token-version 2.0.0 \
+--kube-endpoint PUBLIC_ENDPOINT
+
+```
+
 
 
 
