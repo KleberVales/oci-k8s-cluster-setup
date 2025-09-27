@@ -53,10 +53,8 @@ kubectl get nodes
 
 ```bash
 
-kubectl create deployment hello-k8s
---image=nginx kubectl expose deployment hello-k8s
---type=LoadBalancer
---port=80
+kubectl create deployment hello-k8s --image=nginx
+kubectl expose deployment hello-k8s --type=LoadBalancer --port=80
 
 ```
 
