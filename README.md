@@ -49,6 +49,8 @@ Confirme que o kubectl está funcionando:
 
 kubectl get nodes
 
+## 🐳 Passo 4 - Testar o cluster com um app de exemplo
+
 
 
 
