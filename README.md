@@ -65,6 +65,10 @@ Aguarde o EXTERNAL-IP ser provisionado e acesse pelo navegador 🎉
 
 ## 📜 Estrutura do Repositório
 
+- cloud-shell/ → Scripts prontos para rodar no Cloud Shell
+- terraform/ → Automação (opcional, caso queira usar IaC)
+- docs/ → Diagramas e imagens de apoio
+
 
 
 
