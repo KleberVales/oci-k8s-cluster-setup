@@ -57,6 +57,12 @@ kubectl create deployment hello-k8s --image=nginx
 kubectl expose deployment hello-k8s --type=LoadBalancer --port=80
 
 ```
+Verifique o serviço:
+
+kubectl get svc hello-k8s
+
+
+Aguarde o EXTERNAL-IP ser provisionado e acesse pelo navegador 🎉
 
 
 
