@@ -14,3 +14,17 @@ No console da OCI, clique no ícone de Cloud Shell (canto superior direito).
 Isso abrirá um terminal já autenticado com sua conta.
 
 ## ☸️ Passo 2 - Criar um Cluster Kubernetes
+
+No Cloud Shell, execute:
+
+```cloud shell
+
+# Cria o cluster Kubernetes
+oci ce cluster create \
+--name meu-cluster \
+--kubernetes-version v1.29.1 \
+--compartment-id <OCID_DO_COMPARTMENT> \
+--vcn-id <OCID_DA_VCN> \
+--service-lb-subnet-ids '["<OCID_SUBNET>"]'
+
+```
