@@ -9,3 +9,6 @@ Este repositório contém o passo a passo para criar e acessar um cluster Kubern
 - Acesso ao Cloud Shell no console do OCI
 
 ## 🔧 Passo 1 - Acessar o Cloud Shell
+
+No console da OCI, clique no ícone de Cloud Shell (canto superior direito).
+Isso abrirá um terminal já autenticado com sua conta.
