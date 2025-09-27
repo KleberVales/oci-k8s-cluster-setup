@@ -51,6 +51,15 @@ kubectl get nodes
 
 ## 🐳 Passo 4 - Testar o cluster com um app de exemplo
 
+```bash
+
+kubectl create deployment hello-k8s
+--image=nginx kubectl expose deployment hello-k8s
+--type=LoadBalancer
+--port=80
+
+```
+
 
 
 
