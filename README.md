@@ -45,6 +45,10 @@ oci ce cluster create-kubeconfig \
 
 ```
 
+Confirme que o kubectl está funcionando:
+
+kubectl get nodes
+
 
 
 
