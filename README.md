@@ -29,3 +29,9 @@ oci ce cluster create \
 
 ```
 ⚠️ Troque os valores <OCID_*> pelos IDs corretos da sua conta.
+
+## 📂 Passo 3 - Obter as credenciais (kubeconfig)
+
+
+
+
