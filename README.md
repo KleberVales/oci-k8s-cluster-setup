@@ -32,6 +32,8 @@ oci ce cluster create \
 
 ## 📂 Passo 3 - Obter as credenciais (kubeconfig)
 
+Após a criação do cluster:
+
 
 
 
