@@ -34,7 +34,7 @@ oci ce cluster create \
 
 Após a criação do cluster:
 
-```cloud shell
+```shell
 
 oci ce cluster create-kubeconfig \
 --cluster-id <OCID_DO_CLUSTER> \
