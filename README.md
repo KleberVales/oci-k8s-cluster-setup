@@ -28,3 +28,4 @@ oci ce cluster create \
 --service-lb-subnet-ids '["<OCID_SUBNET>"]'
 
 ```
+⚠️ Troque os valores <OCID_*> pelos IDs corretos da sua conta.
