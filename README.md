@@ -61,8 +61,9 @@ Verifique o serviço:
 
 kubectl get svc hello-k8s
 
-
 Aguarde o EXTERNAL-IP ser provisionado e acesse pelo navegador 🎉
+
+## 📜 Estrutura do Repositório
 
 
 
