@@ -17,7 +17,7 @@ Isso abrirá um terminal já autenticado com sua conta.
 
 No Cloud Shell, execute:
 
-```cloud shell
+```bash
 
 # Cria o cluster Kubernetes
 oci ce cluster create \
