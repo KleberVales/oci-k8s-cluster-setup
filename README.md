@@ -12,3 +12,5 @@ Este repositório contém o passo a passo para criar e acessar um cluster Kubern
 
 No console da OCI, clique no ícone de Cloud Shell (canto superior direito).
 Isso abrirá um terminal já autenticado com sua conta.
+
+## ☸️ Passo 2 - Criar um Cluster Kubernetes
